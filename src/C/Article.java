@@ -1,8 +1,8 @@
 package C;
 
 public class Article {
-    String author;
-    String title;
+    private String author;
+    private String title;
 
     public Article(String author, String title) {
         this.author = author;
